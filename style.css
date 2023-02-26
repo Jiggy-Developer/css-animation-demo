@@ -32,7 +32,7 @@ html, body {
 
 .chopper {
     position: relative;
-    top: 50px;
+    top: 20px;
     animation: chopper 4.5s linear infinite forwards;
 }
 
